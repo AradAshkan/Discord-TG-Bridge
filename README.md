@@ -39,7 +39,7 @@ const config = require('../config.json'); // Adjust the path here if needed
 ```
 
 #### Channel Configuration
-You must specify the Telegram channel usernames to monitor in the `TGMonitor.js` file. Edit the `channelNames` array on Line 11:
+You must specify the Telegram channel usernames to monitor in the `TGMonitor.js` file. Edit the `channelNames` array on Line 13:
 
 ```js
 const channelNames = ['IranintlTV', 'another_channel', 'third_channel'];
