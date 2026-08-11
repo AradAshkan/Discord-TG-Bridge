@@ -1,6 +1,6 @@
 # <img height=30 width=30 src="https://telegram.org/img/t_logo.png" alt="TGL"> Telegram-to-Discord Monitor Event
-
-**Important Note:** This is **not a Discord bot** itself. It is a standalone event module designed to be integrated into an existing Discord.js bot. This module monitors Telegram channels and forwards messages to a Discord webhook.
+> [!Important]
+> This is **not a Discord bot** itself. It is a standalone event module designed to be integrated into an existing Discord.js bot. This module monitors Telegram channels and forwards messages to a Discord webhook.
 
 A specialized event module for Discord.js bots that monitors specific Telegram activities and bridges them to Discord via webhooks. This module is designed to be easily integrated into existing bot structures.
 
